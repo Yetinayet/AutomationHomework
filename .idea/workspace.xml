@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4dddbca-381b-4940-b1a2-e5532208b0ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutomationHomework1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserDriver/mac/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserDriver/mac/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserDriver/windows/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserDriver/windows/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserDriver/windows/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium/CHANGELOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium/client-combined-3.141.59-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium/client-combined-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium/libs/byte-buddy-1.8.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium/libs/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium/libs/guava-25.0-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium/libs/okhttp-3.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium/libs/okio-1.14.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/selenium/selenium-server-standalone-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/animal-sniffer-annotations-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/ant-1.10.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/ant-launcher-1.10.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/checker-compat-qual-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/error_prone_annotations-2.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/guava-25.1-android.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/guice-4.2.2-no_aop.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/j2objc-annotations-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/javax.inject-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/jcommander-1.78.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/jsr305-3.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/snakeyaml-1.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/testNG/testng-7.3.0.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jIrME1XjYmAAQzYgv5WxMi9jLM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yeti\IdeaProjects\AutomationHomework1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yeti\IdeaProjects\AutomationHomework1\lib" />
+      <recent name="C:\Users\yeti\IdeaProjects\AutomationHomework1\lib\browserDriver\mac" />
+      <recent name="C:\Users\yeti\IdeaProjects\AutomationHomework1\lib\browserDriver\windows" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4dddbca-381b-4940-b1a2-e5532208b0ab" name="Default Changelist" comment="" />
+      <created>1603502396487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603502396487</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="82" key="FileChooserDialogImpl" timestamp="1603502785967">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="469" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603502785967" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1603502791084">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603502791084" />
+  </component>
+</project>
